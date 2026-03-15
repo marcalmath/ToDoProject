@@ -1,0 +1,6 @@
+@Cod3rsGrowth.WEB_HostAddress = http://localhost:5123
+
+GET {{Cod3rsGrowth.WEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
