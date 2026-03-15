@@ -9,17 +9,14 @@ namespace ToDoProject.TESTE.Servicos;
 public class TarefaServicoTeste : TesteBase
 {
     private readonly ITarefaRepositorio _tarefaRepositorio;
-
+    
     public TarefaServicoTeste()
     {
         
     }
 
     //Arrange
-    public void TesteListaVazia()
-    {
 
-    }
     //Act
     
     //Assert
